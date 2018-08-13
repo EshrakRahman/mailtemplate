@@ -1,0 +1,41 @@
+body{
+    background:#9181C7;
+    }
+    .section{
+        margin: 0 auto;
+    }
+    .bg-dark{
+        width: 809px;
+        height: 381px;
+        background: #A79AD2;
+        text-align:  center;
+        margin-left: 30%;
+        margin-top: 15%;
+    }
+    .bg-light{}
+    .text{
+    padding: 5%;
+}
+    .text h1{
+    font-size: 50px;
+    color:  white;
+}
+    .text p{
+    font-size:  20px;
+    color: white;
+}
+button{
+    background:  black;
+    background-color: #1f1f1f; /* Green */
+    border: none;
+    color: white;
+    padding: 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.button :hover{
+
+}
